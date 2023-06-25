@@ -242,5 +242,5 @@ i.e: Temperature in degrees Fahrenheit (°F) = (Celsius (°C) * 9/5 Temperature 
  
 double temp = 35.5;
   num tempF = (temp * (9/5)) + 32;
-    print ('temperature in °F = $tempF °F');
+ print ('temperature in °F = $tempF °F');
  }
